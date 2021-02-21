@@ -1,4 +1,5 @@
-#! /bin/sh 
+#! /bin/sh
+echo "Start"
 for f in "$1"/*; do
   if [ -f "$f" ]; then
     SIZE="$(du -sh "${f}" | cut -f 1)"

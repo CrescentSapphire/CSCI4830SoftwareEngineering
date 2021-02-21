@@ -1,2 +1,2 @@
 # CSCI4830SoftwareEngineering
-SP21 Class
+Version Control Exercise
